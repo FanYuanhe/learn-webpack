@@ -1,2 +1,2 @@
 # learn-webpack
-我这在学习webpack
+我正在学习webpack
